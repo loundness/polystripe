@@ -1,6 +1,5 @@
 # [Polygones](https://polygones.herokuapp.com/) #
 
-```sh
 
 ## Menu: ##
 
@@ -16,7 +15,7 @@
 
 ### - Description technique:
 
-```
+
 
 
 
