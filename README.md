@@ -66,46 +66,43 @@ Pour faire tourner cette application, on utilise:
 
 | Gem | Description |
 |-----|-------------|
-| Stripe | Gestion du paiement |
+| ruby v 2.5.1 | Langage framework |
+| rails v 5.2.1 | Gestion de l'application |
+| sqlite 3 | Gestion de la base de données en développement |
+| pg (postgresql) | Gestion de la base de données en production |
+| dotenv | Gestion des clés api |
+| stripe | Gestion du paiement |
+| devise | Gestion des utilisateurs|
+| boostrap v 4.1.3 | Gestion du visuel des pages |
 
 
 
 
-## :gem: On utilise: ##
-
-* ruby '2.5.1'
-
-* la base 'sqlite 3'
-
-* gem 'rails', '~> 5.2.1'
-
-* gem 'mailjet'
-
-* gem 'bootstrap', 
 
 
-------------------------------
-## :desktop_computer: Instructions: ##
-
-Pour tester cette application, importez le dossier sur votre pc, en suivant les instructions suivantes :
 
 
-```sh
-$ git clone https://github.com/jihane-thp/picatsa
 
-$ cd picatsa
 
-$ bundle install --without production
 
-$ rails db:create
 
-$ rails db:migrate
 
-$ rails server
-```
+ruby '2.5.1'
 
-## :rocket: Lien Heroku: ##
+gem 'normalize-rails'
+gem 'bootstrap', '~> 4.1.3'
+gem "font-awesome-rails"
+# Pour le paiement
+gem 'stripe'
+# Pour cacher les clés
+gem 'dotenv-rails'
 
-Pour accéder à la page Heroku, [picatsa](https://dev2-picatsa.herokuapp.com)
+gem 'devise'
+#Style Front
+gem 'bootstrap', '~> 4.1.3'
+gem 'jquery-rails'
+gem "font-awesome-rails"
+
+
 
 --------
