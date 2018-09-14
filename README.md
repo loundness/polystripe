@@ -64,11 +64,9 @@
 Pour faire tourner cette application, on utilise:
 
 
-|Gem | Description|
-
-|----|------------|
-
-| Stripe       |   Gestion du paiement  |
+| Gem | Description |
+|-----|-------------|
+| Stripe | Gestion du paiement |
 
 
 
