@@ -30,15 +30,47 @@
 
 ## Expérience administrateur:
 
+- Je peux créer un compte
+
+- Je peux créer un menu
+
+- Je peux configurer mon blog
+
+- Je peux rajouter rajouter des photos et des vidéos dans mes articles
+
+- Je peux gérer mes articles et les commentaires des utilisateurs
+
+- Je peux facilement référencer mon site grâce au SEO(Search Engine Optimization) afin d'optimiser son environnement pour les moteurs de recherche
+
+- Je peux commander des templates(configuration visuelle)
+
+- Je peux accéder aux statistiques des visites sur mon blog
+
 
 
 ## Expérience utilisateur:
 
+- Je peux lire les articles
+
+- Je peux commenter les articles
+
 
 ## Droits d'accès:
 
+- Seul l'administrateur peut modifier ses identifiants
 
 ## Description technique:
+
+Pour faire tourner cette application, on utilise:
+
+
+|Gem | Description|
+
+|----|------------|
+
+| Stripe       |   Gestion du paiement  |
+
+
 
 
 ## :gem: On utilise: ##
