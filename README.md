@@ -1,5 +1,4 @@
-# [Polygones](https://polygones.herokuapp.com/) #
-
+# [Polygones](https://polygones.herokuapp.com/) 
 ---
 
 ### Menu: ###
@@ -23,13 +22,13 @@
 ---
 
 
-## :clipboard: Présentation: ##  
+## Présentation: ##  
  
  Polygones est un C.M.S. *(Content Management System)*, système de gestion de contenus, permet de créer un blog facilement. Cette application personnalise l'expérience utilisateur par la liberté d'insérer des supports média *(photos, vidéos)* et des articles, de façon ludique. Elle est basée sur le framework "Ruby on Rails". 
 
 ---
 
-### :rocket: [Voici le lien pour accéder à l'application "Polygones"](https://polygones.herokuapp.com/)
+### [Voici le lien pour accéder à l'application "Polygones"](https://polygones.herokuapp.com/)
 
 ---
 
@@ -75,7 +74,6 @@
 
 Pour faire tourner cette application, on utilise:
 
-
 | Gem | Description |
 |-----|-------------|
 | ruby v 2.5.1 | Langage framework |
@@ -89,4 +87,4 @@ Pour faire tourner cette application, on utilise:
 ---
 
 
-###### Polygones c 2018
+###### ![Polygones](https://i.goopics.net/2ZjKR.png) 2018 
