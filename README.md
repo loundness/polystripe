@@ -1,6 +1,6 @@
  ![Polygones](https://i.goopics.net/2ZjKR.png) 
 
-##### [Accéder à l'application](https://polygones.herokuapp.com/)
+#### [Accéder à l'application](https://polygones.herokuapp.com/)
 ---
 
 ### Menu ###
