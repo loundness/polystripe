@@ -1,41 +1,36 @@
  ![Polygones](https://i.goopics.net/2ZjKR.png) 
+
+ [Accéder à l'application](https://polygones.herokuapp.com/)
 ---
 
-### Menu: ###
+### Menu ###
 
-* Présentation: 
+* Présentation 
 
-* Niveaux utilisateurs:
-
-* Expérience administrateur:
+* Expérience utilisateur 
 
   * Super-administrateur
   * Administrateur
   * Utilisateur
 
-* Expérience utilisateur:
+* Droits d'accès
 
-* Droits d'accès:
-
-* Description technique:
+* Description technique
 
 ---
 
 
-## Présentation: ##  
+## Présentation : ##  
  
  Polygones est un C.M.S. *(Content Management System)*, système de gestion de contenus, permet de créer un blog facilement. Cette application personnalise l'expérience utilisateur par la liberté d'insérer des supports média *(photos, vidéos)* et des articles, de façon ludique. Elle est basée sur le framework "Ruby on Rails". 
 
----
-
-### [Voici le lien pour accéder à l'application "Polygones"](https://polygones.herokuapp.com/)
 
 ---
 
-## Niveaux utilisateurs:
+## Expérience utilisateur :
 
 
-#### Expérience super-administrateur:
+#### Super-administrateur :
 
 - Je peux voir la liste des sites créés
 
@@ -44,7 +39,7 @@
 - Je peux voir les statistiques des ventes de mes templates  
 
 
-#### Expérience administrateur:
+#### Administrateur :
 
 - Je peux créer un compte
 
@@ -52,7 +47,7 @@
 
 - Je peux configurer mon blog
 
-- Je peux rajouter rajouter des photos et des vidéos dans mes articles
+- Je peux ajouter des photos et des vidéos dans mes articles
 
 - Je peux gérer mes articles et les commentaires des utilisateurs
 
@@ -62,7 +57,7 @@
 
 
 
-#### Expérience utilisateur:
+#### Utilisateur :
 
 - Je peux lire les articles
 
@@ -70,7 +65,7 @@
 
 ---
 
-## Description technique:
+## Description technique :
 
 Pour faire tourner cette application, on utilise:
 
