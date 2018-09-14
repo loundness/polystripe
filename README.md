@@ -15,18 +15,18 @@
 
 - Description technique:
 
----
+
 
 
 ## :clipboard: Présentation: ##  
  
  Polygones est un C.M.S. (Content Management System), système de gestion de contenus, permet de créer un site web facilement. Cette application personnalise l'expérience utilisateur par la liberté d'insérer des supports média (photos, vidéos) et des articles, de façon ludique. Elle est basée sur le framework "Ruby on Rails". 
 
----
+
 
 ### :rocket: [Voici le lien pour accéder à l'application "Polygones"](https://polygones.herokuapp.com/)
 
---------
+
 
 ## Expérience administrateur:
 
