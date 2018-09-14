@@ -1,19 +1,19 @@
 # [Polygones](https://polygones.herokuapp.com/) #
 
 
-## Menu: ##
+### Menu: ###
 
-### - Présentation: 
+- Présentation: 
 
-### - Lien de l'application:
+- Lien de l'application:
 
-### - Expérience administrateur:
+- Expérience administrateur:
 
-### - Expérience utilisateur:
+- Expérience utilisateur:
 
-### - Droits d'accès:
+- Droits d'accès:
 
-### - Description technique:
+- Description technique:
 
 
 
