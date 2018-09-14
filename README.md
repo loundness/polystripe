@@ -34,7 +34,7 @@
 
 - Je peux voir la liste des sites créés
 
-- Je peux rajouter des templates*(configuration visuelle)* en vente pour les administrateurs
+- Je peux rajouter des templates *(configuration visuelle)* en vente pour les administrateurs
 
 - Je peux voir les statistiques des ventes de mes templates  
 
@@ -51,7 +51,7 @@
 
 - Je peux gérer mes articles et les commentaires des utilisateurs
 
-- Je peux commander des templates*(configuration visuelle)* et donner un nouveau visage à mon blog
+- Je peux commander des templates *(configuration visuelle)* et donner un nouveau visage à mon blog
 
 - Je peux accéder aux statistiques des visites sur mon blog
 
