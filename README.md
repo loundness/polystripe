@@ -1,4 +1,4 @@
-# [Polygones](https://polygones.herokuapp.com/) 
+# ![Polygones](https://i.goopics.net/2ZjKR.png) 
 ---
 
 ### Menu: ###
@@ -87,4 +87,3 @@ Pour faire tourner cette application, on utilise:
 ---
 
 
-###### ![Polygones](https://i.goopics.net/2ZjKR.png) 2018 
